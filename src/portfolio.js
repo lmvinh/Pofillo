@@ -161,7 +161,7 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡Gained comprehensive knowledge of PnR (Place and Route) theory.",
-        "⚡Actively contributed to the phx_mix project, participating in and evaluating its step-by-step processes.",
+        "⚡Actively contributed to the sample project, participating in and evaluating its step-by-step processes.",
       ],
       softwareSkills: [
         {
@@ -199,7 +199,7 @@ const degrees = {
       alt_name: "HCMUS",
       duration: "2021 - present",
       descriptions: [
-        "⚡ Studied Advanced Software Development Concepts, Data Management & Warehousing",
+        "⚡ Studied Advanced Software Development Concepts",
         "⚡Advanced topics in Large-Scale Integration (LSI) encompass several areas, including cutting-edge techniques in digital, analog, and mixed-signal designs, as well as new methods in semiconductor technology",
         "⚡ Worked on projects on courses like Web Technologies and IoT Networking Management.",
       ],
@@ -487,7 +487,7 @@ const contactPageData = {
   blogSection: {
     title: "",
     subtitle:
-      "A Nowhere Debt for a Little Sister - I hope you're happy with this. Just enjoy it and feel free to contact me whenever you need! - Vinh Lam . PS: I will delete this line when you submit this assignment :)",
+      "A Nowhere Debt for a Little Sister - My Personal Quote for new year : 'Year's end is neither an end nor a beginning but a going on, with all the wisdom that experience can instill in us. Cheers to a new year and another chance for us to get it right.'",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
