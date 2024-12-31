@@ -16,7 +16,8 @@ const greeting = {
   full_name: "Thao Nguyen",
   subTitle:
     "A senior at university of science with a strong passion for large-scale integration and embedded systems, constantly driven by a love for learning.",
-  resumeLink: "",
+  resumeLink:
+    "https://drive.google.com/file/d/1cJOOeXbHnEJWaLxcdyGCE91Ww-ryq4k2/view?usp=sharing",
   mail: "Thaozz706@gmail.com",
 };
 
@@ -480,14 +481,14 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "avatar.png",
+    profile_image_path: "2025.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
-    title: "",
+    title: "My wish in new year eve",
     subtitle:
-      "A Nowhere Debt for a Little Sister - My Personal Quote for new year : 'Year's end is neither an end nor a beginning but a going on, with all the wisdom that experience can instill in us. Cheers to a new year and another chance for us to get it right.'",
+      "A Nowhere Debt for a Little Sister - My Personal Wish for new year : 'Cheers to new beginnings, endless possibilities, and the courage to chase our dreams in 2025. Wishing you a New Year filled with joy, success, and happiness! extreme happiness! :D - Translation : Chúc mừng những khởi đầu mới, những khả năng bất tận và lòng can đảm theo đuổi ước mơ của bạn trong năm 2025. Chúc bạn một năm mới tràn ngập niềm vui, thành công và hạnh phúc! cực kỳ hạnh phúc! :D'",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
