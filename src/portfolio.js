@@ -10,9 +10,9 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Thỏ",
-  logo_name: "Thỏ",
-  nickname: "Thỏ",
+  title2: "Thảo",
+  logo_name: "Thảo",
+  nickname: "Thảo",
   full_name: "Thao Nguyen",
   subTitle:
     "A senior at university of science with a strong passion for large-scale integration and embedded systems, constantly driven by a love for learning.",
