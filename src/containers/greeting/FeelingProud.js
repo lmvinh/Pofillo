@@ -1,6 +1,6 @@
 import React from "react";
 import "./FeelingProud.css";
-import avatar from "./iammong.jpg"; // Import the image
+import avatar from "./thao.png"; // Import the image
 
 function FeelingProud(props) {
   const theme = props.theme;

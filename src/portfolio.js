@@ -488,7 +488,7 @@ const contactPageData = {
   blogSection: {
     title: "My wish in new year eve",
     subtitle:
-      "A Nowhere Debt for a Little Sister - My Personal Wish for new year : 'Cheers to new beginnings, endless possibilities, and the courage to chase our dreams in 2025. Wishing you a New Year filled with joy, success, and happiness! extreme happiness! :D - Translation : Chúc mừng những khởi đầu mới, những khả năng bất tận và lòng can đảm theo đuổi ước mơ của bạn trong năm 2025. Chúc bạn một năm mới tràn ngập niềm vui, thành công và hạnh phúc! cực kỳ hạnh phúc! :D'",
+      "A Nowhere Debt for a Little Sister - My Personal Wish for new year : 'Cheers to new beginnings, endless possibilities, and the courage to chase your dreams in 2025. Wishing you a New Year filled with joy, success, and happiness! extreme happiness! ",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
