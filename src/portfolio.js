@@ -498,7 +498,7 @@ const projects = {
   data: [
     {
       name: "This Portfolio Project",
-      url: "",
+      url: "https://github.com/NguyenThiThao1710/NguyenThiThao_giuaky",
       description:
         "This is my very first project in deploying portfolio ! HEHE :D",
       languages: [
